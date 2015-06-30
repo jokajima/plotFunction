@@ -1,5 +1,5 @@
 # plotFunction
-Template of 2D plot with IPython Notebook.
+Template of 2D plot with IPython Notebook.  
 nbviewer here --> http://nbviewer.ipython.org/github/jokajima/plotFunction/blob/master/2Dplot.ipynb
 
 ##Contents
