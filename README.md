@@ -6,3 +6,4 @@ nbviewer here --> http://nbviewer.ipython.org/github/jokajima/plotFunction/blob/
 - Plot bessel function of 0 order using scipy.special
 - Plot modified bessel functions in same graph
 - Plot modified bessel functions in sparated graph
+- Plot modified bessel functions in 2 y-axis graph
